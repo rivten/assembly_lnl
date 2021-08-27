@@ -1,0 +1,14 @@
+= introduction à l'assembleur =
+
+== références ==
+
+* Handmade Hero : https://www.youtube.com/watch?v=qin-Eps3U_E
+* What is assembly language ? : https://www.youtube.com/watch?v=1FXhjErUz58&t=1117s
+* Intel Manual / Instruction set reference : https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf
+* Godbolt : https://godbolt.org/
+
+== il faut en parler ==
+
+* parallélisme
+* pipelining
+* architecture cpu
