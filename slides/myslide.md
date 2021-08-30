@@ -3,6 +3,10 @@ title: Manger & Apprendre
 subtitle: Introduction à l'assembleur
 ---
 
+### Bas-niveaux ?
+
+![](images/high_level.png)
+
 ### Niveaux de langages
 
 Haut-niveau vers bas-niveau :
@@ -12,24 +16,38 @@ Haut-niveau vers bas-niveau :
 * machines virtuelles, exécutables, compilés : C, C++, pascal, ...
 * assembleurs (instruction CPU)
 
-### Plusieurs langages d'assembleurs
+### C'est quoi ?
+
+* pas vraiment un langage
+* quasiment pas d'abstractions
+* quasiment du code machine
+* plus de contrôle
+* plus de code à écrire
+* non-portable
 
 ### Hardware
 
+
+
 ### CPU
+
+![](images/cpu.png)
 
 ### Memory
 
+![](images/memory.png)
+
 ### CPU + Memory
+
+
+![](images/cpuandmemory.png)
 
 ### Instructions
 
-### Exemples de boucles
-
-### Hello World !
-
-montrer hello world + refaire une boucle qui affiche 5 fois hello
-
 ### Intel Manual
 
+[Intel Manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf)
+
 ### Godbolt
+
+[Godbolt](https://godbolt.org)
